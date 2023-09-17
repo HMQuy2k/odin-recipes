@@ -3,6 +3,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.cover-image {
+    height: auto;
+    width: 100vw;
+}
 .ingre-list ul{
     color: darkred;
     font-weight: bold;
